@@ -1,0 +1,150 @@
+.aks{
+	width:30%;
+	height:97vh;
+	background-color:white;
+	float:right;
+	margin-right:35%;
+	background-image:url("ills.svg");
+	background-size:contain;
+	background-repeat:no-repeat;
+	
+	border-radius:30px;
+	
+	
+}
+body{
+	background-image:url("pattern.svg");
+	background-size:2500px;
+	background-repeat:no-repeat;
+	
+	
+	
+	
+	
+}
+.patt{
+	background-image:url("ills.svg");
+	background-size:contain;
+	
+	
+	
+}
+
+.menu{
+	display:flex;
+	justify-content: flex-end;
+	margin-top:230px;
+   justify-content: space-around;
+    flex-wrap: wrap;
+    align-content: flex-start;
+    align-items: center;
+	
+	
+	
+	
+	
+	
+}
+
+p{
+	margin-left:75px;
+	color:#9d9999;
+	font-size:18px;
+	
+	
+		
+		
+		
+}
+
+.cadr{
+	height:80px;
+	width:80%;
+	background-color:#f6f6f9;
+	margin-left:40px;
+	border-radius:15px;
+	display:flex;
+   align-items: stretch;
+    justify-content: space-around
+   ;
+	
+}
+.par2{
+	margin-left:60px;
+	
+	
+}
+
+
+
+.photo{
+	
+	margin-top:16px;
+	margin-left:1px;
+	border-radius:300px;
+	width:50px;
+	height:50px;
+	background-color:blue;
+	
+	
+}
+.plan{
+	margin-top:20px;
+	margin-left:-10px;
+	
+	
+	
+}
+.price{
+	margin-top:50px;
+	margin-left:-120px;
+	color:#9090af;
+}
+.change{
+	
+	
+	
+}
+
+.proced{
+	width:80%;
+	height:60px;
+
+	background-color:blue;
+	border-radius:20px;
+	margin-top:20px;
+	margin-left:40px;
+	box-shadow:5px 20px 4px #ecf2f7;
+	
+}
+
+.payment{
+	display:flex;
+	align-content: center;
+    align-items: baseline;
+    flex-wrap: wrap;
+    flex-direction: column;
+    justify-content: center;
+	color:white;
+	text-align:center;
+	line-height:60px;
+	
+	
+	
+}
+
+.cancel{
+	text-align:center;
+	margin-top:15px;
+	
+	
+	
+	
+}
+
+.link{
+	color:#9090af;
+	text-decoration:none;
+	
+}
+
