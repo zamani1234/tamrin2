@@ -1,9 +1,8 @@
 .aks{
 	width:340px;
 	height:97vh;
-	background-color:white;
 	float:right;
-	margin-right:35%;
+	background-color:white;
 	background-image:url("ills.svg");
 	background-size:contain;
 	background-repeat:no-repeat;
@@ -16,6 +15,12 @@ body{
 	background-image:url("pattern.svg");
 	background-size:2500px;
 	background-repeat:no-repeat;
+    	display: flex;
+    	flex-wrap: wrap;
+    	align-content: space-between;
+    	justify-content: space-evenly;
+    	align-items: flex-start;
+	background-color:#aba2dd;
 	
 	
 	
